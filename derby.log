@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Thu Mar 27 18:04:18 IST 2025:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0195-d798-9e3e-000002729fd0 
+on database directory /home/rajvee/inspiron/metastore_db with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@5ffd2b27 
+Loaded from file:/home/rajvee/spark/jars/derby-10.14.2.0.jar
+java.vendor=Ubuntu
+java.runtime.version=11.0.26+4-post-Ubuntu-1ubuntu122.04
+user.dir=/home/rajvee/inspiron
+os.name=Linux
+os.arch=amd64
+os.version=6.8.0-52-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
